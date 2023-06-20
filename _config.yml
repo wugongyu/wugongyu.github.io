@@ -9,7 +9,7 @@ subtitle: "The world is so big, don't be stingy with your expression. The world 
 description: '这世界那么大，别吝啬你的表达。这世界在变化，别忘了你的潇洒。'
 keywords:
 author: hooooongyu
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -106,5 +106,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wugongyu/wugongyu.github.io.git
+  repo: git@github.com:wugongyu/wugongyu.github.io.git
   branch: main
