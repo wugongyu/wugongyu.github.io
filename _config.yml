@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Live My Life
+# subtitle: '淡而无味也是一种味道'
+subtitle: "The world is so big, don't be stingy with your expression. The world is changing, don't forget your natural and unrestrained."
+description: '这世界那么大，别吝啬你的表达。这世界在变化，别忘了你的潇洒。'
 keywords:
-author: John Doe
-language: en
+author: hooooongyu
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -44,7 +45,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false # 停用默认代码高亮功能，否则代码块的 mac 样式不能正常显示
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -97,7 +98,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: shoka
+# theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
